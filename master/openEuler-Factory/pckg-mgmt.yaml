@@ -1,1 +1,5 @@
 packages:
+    - name: testjob5
+      obsfrom: ' '
+      obsto: openEuler:Factory
+      date: "2022-07-12"
