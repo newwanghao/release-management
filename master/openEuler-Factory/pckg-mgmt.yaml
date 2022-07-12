@@ -3,3 +3,7 @@ packages:
       obsfrom: ' '
       obsto: openEuler:Factory
       date: "2022-07-12"
+    - name: testjob6
+      obsfrom: ' '
+      obsto: openEuler:Factory
+      date: "2022-07-12"
