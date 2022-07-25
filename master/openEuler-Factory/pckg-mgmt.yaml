@@ -27,3 +27,7 @@ packages:
       obsfrom: ""
       obsto: openEuler:Factory
       date: "2022-07-25"
+    - name: app-gitee2
+      obsfrom: ""
+      obsto: openEuler:Factory
+      date: "2022-07-25"
